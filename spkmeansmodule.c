@@ -1,6 +1,4 @@
-/*
- Created by Ziv on 10/10/2021.
-*/
+
 #define PY_SSIZE_T_CLEAN
 #define ALLOCATION_ERROR                                 \
         {                                                \
